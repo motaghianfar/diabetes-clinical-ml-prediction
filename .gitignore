@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual/Conda environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter
+.jupyter/
+.local/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large or temporary files
+*.log
+*.tmp
+
+# Model files can be regenerated
+*.pkl
+*.joblib

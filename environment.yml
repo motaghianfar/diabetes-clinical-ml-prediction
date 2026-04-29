@@ -1,0 +1,8 @@
+name: diabetes-ml-py311
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/llmo2ll/miniconda3/envs/diabetes-ml-py311

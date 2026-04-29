@@ -1,0 +1,6 @@
+column,zero_count_before_cleaning,median_used_for_imputation,zero_count_after_cleaning
+Glucose,5,117.0,0
+BloodPressure,35,72.0,0
+SkinThickness,227,29.0,0
+Insulin,374,125.0,0
+BMI,11,32.3,0
