@@ -12,10 +12,6 @@ The objective is to build and evaluate classification models that predict whethe
 
 Biomedical AI / Clinical Bioinformatics
 
-## Difficulty
-
-42 / 100
-
 ## Dataset
 
 Name: Pima Indians Diabetes Dataset  
